@@ -12,11 +12,11 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/currency_converter.git
+    git clone https://github.com/ankit14-dev/Currency-Converter.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd currency_converter
+    cd Currency_Converter
     ```
 3. Install dependencies:
     ```sh
@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [ankitkr.ak14@gmail.com](mailto:ankitkr.ak14@gmail.com).
