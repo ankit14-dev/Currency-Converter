@@ -19,10 +19,12 @@ You can download the latest release APK from the [Releases](https://github.com/a
 
 ## Screenshots
 
-<img src="images/Screenshot_1732283547.png" alt="App Screenshot 1" width="200"/>
-<img src="images/Screenshot_1732283560.png" alt="App Screenshot 2" width="200"/>
-<img src="images/Screenshot_1732283568.png" alt="App Screenshot 3" width="200"/>
-<img src="images/Screenshot_1732283575.png" alt="App Screenshot 4" width="200"/>
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="images/Screenshot_1732283547.png" alt="App Screenshot 1" width="200"/>
+    <img src="images/Screenshot_1732283560.png" alt="App Screenshot 2" width="200"/>
+    <img src="images/Screenshot_1732283568.png" alt="App Screenshot 3" width="200"/>
+    <img src="images/Screenshot_1732283575.png" alt="App Screenshot 4" width="200"/>
+</div>
 
 ## Demo
 
