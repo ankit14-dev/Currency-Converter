@@ -17,6 +17,17 @@ You can download the latest release APK from the [Releases](https://github.com/a
 - Historical data for exchange rates
 - User-friendly interface
 
+## Screenshots
+
+![App Screenshot 1](images/Screenshot_1732283547.png)
+![App Screenshot 2](images/Screenshot_1732283560.png)
+![App Screenshot 3](images/Screenshot_1732283568.png)
+![App Screenshot 4](images/Screenshot_1732283575.png)
+
+## Demo
+
+![App Demo](images/mydemo.gif)
+
 ## Building
 
 1. Clone the repository:
