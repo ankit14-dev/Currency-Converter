@@ -1,6 +1,15 @@
 ## currency_converter
 
+## Download
 
+You can download the latest release APK from the [Releases](https://github.com/ankit14-dev/Currency-Converter/releases) page.
+
+## Installation
+
+1. Download the APK file from the [Releases](https://github.com/ankit14-dev/Currency-Converter/releases) page.
+2. On your Android device, go to Settings > Security.
+3. Enable "Unknown Sources" to allow the installation of apps from sources other than the Google Play Store.
+4. Open the downloaded APK file and follow the instructions to install the app.
 ## Features
 
 - Convert between multiple currencies
@@ -8,7 +17,7 @@
 - Historical data for exchange rates
 - User-friendly interface
 
-## Installation
+## Building
 
 1. Clone the repository:
     ```sh
